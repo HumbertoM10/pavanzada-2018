@@ -1,0 +1,45 @@
+
+# Practica6
+
+README (libreria) hash  
+key string = char*  
+value "cualquier cosa" =>  
+void *d  
+int *a,  
+char *p,  
+double *p  
+-Hay que hacer un cast para saber que tipo de dato va a ser  
+char s[] = "hola";  
+char *s2 = s;  
+s2[3] = 'c';(no se puede)  
+-Hay que guardar el tamaño del dato "generico" en otra variable  
+void * malloc()  
+void * b = malloc;  
+b + (sizeElement *2);  
+<br />  
+Key strna char*  
+value => void*  
+-No se puede permitir que el hash regrese cosas infinitas (lo queremos en un rango definido)  
+<br />  
+arreglo  vector  
+cada vez que tamaño=index -> realoc  
+(mejor aproach empezar en 2 e ir doblando)  
+Element{  
+	char * key  
+	value  
+}  
+<br/>
+init  
+insert  
+->hash(key)  
+-->if()  
+-->else  
+crecerlo  
+-->inserta  
+<br/>
+get  
+->hash(key)  
+-->is null return null  
+-->else buscar  
+->valor  
+->null  
