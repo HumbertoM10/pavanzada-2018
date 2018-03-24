@@ -63,5 +63,5 @@ Solution:
 ------Also, sum the half of the difference between the Wmax and Wmin to X0 and assing it that value  
 --------X0=X0+(Wmax-Wmin)/2 (Because we know the bomb is right from Batman)  
   
--Finaly, print the values of X0 and Y0  
+-Finally, print the values of X0 and Y0  
 --printf("%d %d\n", X0, Y0)  
