@@ -71,8 +71,8 @@ In case #1, you have two different valid arrangements:
 3 0  |  0 3  
 
 Analysis:
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
+<object data="https://github.com/HumbertoM10/pavanzada-2018/blob/master/Proyectos/Proyecto2/Readme%20(Word).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/HumbertoM10/pavanzada-2018/blob/master/Proyectos/Proyecto2/Readme%20(Word).pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
