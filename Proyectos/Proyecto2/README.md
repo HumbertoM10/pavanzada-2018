@@ -1,5 +1,6 @@
-#Proyecto 2
-Problema:
+#Proyecto 2  
+
+Problema:  
 
 "Summer is finally here: time to relax, have some fun, go outside and enjoy the nice weather!" says Alice, a very dedicated Ranger working in a popular National Park. During the summer, lots of families take some time off to camp there and have a good time, and it is Alice's job to accommodate the visitors.  
   
@@ -70,7 +71,7 @@ In case #1, you have two different valid arrangements:
 0 3  |  3 0  
 3 0  |  0 3  
 
-Analysis:
+Analysis:  
 <object data="https://github.com/HumbertoM10/pavanzada-2018/raw/master/Proyectos/Proyecto2/Readme%20(Word).pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/HumbertoM10/pavanzada-2018/raw/master/Proyectos/Proyecto2/Readme%20(Word).pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/HumbertoM10/pavanzada-2018/raw/master/Proyectos/Proyecto2/Readme%20(Word).pdf">Download PDF</a>.</p>
