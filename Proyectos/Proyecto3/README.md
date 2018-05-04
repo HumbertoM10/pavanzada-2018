@@ -42,8 +42,8 @@ Second
 Second  
   
 Analysis:   
-<object data="https://github.com/HumbertoM10/pavanzada-2018/raw/master/Proyectos/Proyecto2/Readme%20(Word).pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://github.com/HumbertoM10/pavanzada-2018/raw/master/Proyectos/Proyecto3/Readme%20(PDF).pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/HumbertoM10/pavanzada-2018/raw/master/Proyectos/Proyecto3/Readme%20(PDF).pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/HumbertoM10/pavanzada-2018/raw/master/Proyectos/Proyecto2/Readme%20(Word).pdf">Download PDF</a>.</p>
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/HumbertoM10/pavanzada-2018/raw/master/Proyectos/Proyecto3/Readme%20(PDF).pdf">Download PDF</a>.</p>
     </embed>
 </object>
